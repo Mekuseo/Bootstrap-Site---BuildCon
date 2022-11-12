@@ -6,7 +6,7 @@ This project is a clone of the [BuildCon](https://www.behance.net/gallery/247964
 
 # My Portfolio Link on Github Page:
 
-[BuildCon]
+[BuildCon] (https://mekuseo.github.io/Bootstrap-Site---BuildCon/)
 ## Built With
 
 - CSS
